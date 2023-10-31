@@ -7,11 +7,14 @@ The dataset used in this analysis includes details such as date, location, and t
 # Key Questions Explored
 Temporal Trends: We investigate the variation in the number of reported fires over time, identifying any significant patterns by year, month, and day.
 
-# Geographical Patterns: We analyze the spatial distribution of fires, exploring which states are most affected and if there are any discernible trends.
+# Geographical Patterns
+We analyze the spatial distribution of fires, exploring which states are most affected and if there are any discernible trends.
 
-# Statistical Summary: We provide an overview of the statistical characteristics of the data, including measures of central tendency and dispersion.
+# Statistical Summary
+We provide an overview of the statistical characteristics of the data, including measures of central tendency and dispersion.
 
-# Comparative Analysis: We compare the occurrence of fires across different states and years to uncover potential insights.
+# Comparative Analysis
+We compare the occurrence of fires across different states and years to uncover potential insights.
 
 # Dependencies
 Python 3.x
